@@ -64,7 +64,7 @@ Seluruh notebook dikerjakan menggunakan **Google Colab**. Setiap notebook menyer
 
 ## 🔍 Ringkasan Perjalanan Belajar Data Science Pertemuan 1–7
 
-Selama tujuh pertemuan ini, saya menempuh perjalanan belajar yang terstruktur mengikuti alur siklus Data Science dari hulu ke hilir.
+Selama tujuh pertemuan ini, saya menempuh perjalanan belajar yang terstruktur terkait bidang Data Science.
 
 **Pertemuan 1** menjadi fondasi dengan mempraktikkan dasar-dasar Python — variabel, tipe data, list, perulangan, dan fungsi — menggunakan Google Colab, sekaligus membiasakan diri mendokumentasikan dan mengunggah hasil kerja ke GitHub.
 
@@ -80,7 +80,7 @@ Selama tujuh pertemuan ini, saya menempuh perjalanan belajar yang terstruktur me
 
 **Pertemuan 7** merupakan puncak dari perjalanan ini: implementasi Supervised Learning dengan algoritma Regresi Linear menggunakan dataset sintetis prediksi gaji. Model yang dibangun mencapai R² sebesar 0,974, artinya 97,4% variasi gaji dapat dijelaskan oleh fitur yang tersedia. Residual Plot menunjukkan asumsi linearitas terpenuhi, menandakan model baseline ini layak digunakan.
 
-Secara keseluruhan, perjalanan tujuh pertemuan ini membangun pemahaman saya dari nol hingga mampu membangun dan mengevaluasi model machine learning pertama saya. Setiap tahap saling berkaitan dan membentuk fondasi yang kuat untuk eksplorasi Data Science yang lebih lanjut.
+Secara keseluruhan, perjalanan tujuh pertemuan ini membantu menambah pemahaman saya di bidang Data Science yang sebelumnya telah saya pelajari. Setiap tahap saling berkaitan dan membentuk fondasi yang kuat untuk eksplorasi Data Science yang lebih lanjut.
 
 ---
 
