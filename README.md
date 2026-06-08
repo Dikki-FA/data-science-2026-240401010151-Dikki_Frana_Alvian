@@ -7,9 +7,8 @@
 | **Nama**       | Dikki Frana Alvian            |
 | **NIM**        | 240401010151                  |
 | **Kelas**      | IF403                         |
-| **Program Studi** | PJJ Informatika            |
-| **Mata Kuliah** | Data Science (Semester Genap 2025/2026) |
-| **Dosen**      | Syahid Abdullah, S.Si., M.Kom |
+| **Program Studi** | S1 PJJ Informatika UNSIA   |
+| **Mata Kuliah** | Data Science  |
 
 ---
 
