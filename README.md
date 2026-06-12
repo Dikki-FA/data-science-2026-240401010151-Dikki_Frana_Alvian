@@ -27,12 +27,12 @@ Repository ini berisi 7 notebook (.ipynb) yang masing-masing merekam proses bela
 | No | Pertemuan | Topik | Link Notebook |
 |----|-----------|-------|---------------|
 | 1 | Pertemuan 1 | Pengantar Python untuk Data Science — Output, Variabel, List, Fungsi | [Pertemuan1_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/12jhO-Cmfp_PdrKIwMbI1ldO_bFbfEj6O?usp=sharing) |
-| 2 | Pertemuan 2 | Pandas & NumPy — Eksplorasi Dataset Titanic, Filtering, Groupby | [Pertemuan2_Dikki_Frana_Alvian_240401010151.ipynb](./Pertemuan2_Dikki_Frana_Alvian_240401010151.ipynb) |
-| 3 | Pertemuan 3 | Data Cleaning — Missing Values, Outlier, Normalisasi String, REST API | [Pertemuan3_Dikki_Frana_Alvian_240401010151.ipynb](./Pertemuan3_Dikki_Frana_Alvian_240401010151.ipynb) |
-| 4 | Pertemuan 4 | Statistika Deskriptif & Visualisasi — Distribusi, Korelasi, Heatmap | [Pertemuan4_Dikki_Frana_Alvian_240401010151.ipynb](./Pertemuan4_Dikki_Frana_Alvian_240401010151.ipynb) |
-| 5 | Pertemuan 5 | Dashboard Visualisasi — Matplotlib Gridspec, Seaborn, Analisis Tips | [Pertemuan5_Dikki_Frana_Alvian_240401010151.ipynb](./Pertemuan5_Dikki_Frana_Alvian_240401010151.ipynb) |
-| 6 | Pertemuan 6 | Data Preparation for ML — Encoding, StandardScaler, Train-Test Split | [Pertemuan6_Dikki_Frana_Alvian_240401010151.ipynb](./Pertemuan6_Dikki_Frana_Alvian_240401010151.ipynb) |
-| 7 | Pertemuan 7 | Supervised Learning — Regresi Linear, Evaluasi Model, Residual Plot | [Pertemuan7_Dikki_Frana_Alvian_240401010151.ipynb](./Pertemuan7_Dikki_Frana_Alvian_240401010151.ipynb) |
+| 2 | Pertemuan 2 | Pandas & NumPy — Eksplorasi Dataset Titanic, Filtering, Groupby | [Pertemuan2_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/10skpV2K1RGo9BEakc3dXCbkXEsFxypn3?usp=sharing) |
+| 3 | Pertemuan 3 | Data Cleaning — Missing Values, Outlier, Normalisasi String, REST API | [Pertemuan3_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1hEZ5lrQlNwFbysSp-I58UYCgjfX-jzvc?usp=sharing) |
+| 4 | Pertemuan 4 | Statistika Deskriptif & Visualisasi — Distribusi, Korelasi, Heatmap | [Pertemuan4_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1w_TUrcHaMf5iJ-lOJq0FJjfJReeveA-W?usp=sharing) |
+| 5 | Pertemuan 5 | Dashboard Visualisasi — Matplotlib Gridspec, Seaborn, Analisis Tips | [Pertemuan5_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1MSP9dSKdTg193p1UfnXxBqbI2bSpJwfg?usp=sharing) |
+| 6 | Pertemuan 6 | Data Preparation for ML — Encoding, StandardScaler, Train-Test Split | [Pertemuan6_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1h_3o43HBNUEaRk75k7jFuZFHnBEhAoDh?usp=sharing) |
+| 7 | Pertemuan 7 | Supervised Learning — Regresi Linear, Evaluasi Model, Residual Plot | [Pertemuan7_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1K0UIYBa8l8IY3mxSw1dl3p39w5PEEQ1T?usp=sharing) |
 
 ---
 
