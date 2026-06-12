@@ -26,7 +26,7 @@ Repository ini berisi 7 notebook (.ipynb) yang masing-masing merekam proses bela
 
 | No | Pertemuan | Topik | Link Notebook |
 |----|-----------|-------|---------------|
-| 1 | Pertemuan 1 | Pengantar Python untuk Data Science — Output, Variabel, List, Fungsi | [Pertemuan1_Dikki_Frana_Alvian_240401010151.ipynb](./Pertemuan1_Dikki_Frana_Alvian_240401010151.ipynb) |
+| 1 | Pertemuan 1 | Pengantar Python untuk Data Science — Output, Variabel, List, Fungsi | [Pertemuan1_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/12jhO-Cmfp_PdrKIwMbI1ldO_bFbfEj6O?usp=sharing) |
 | 2 | Pertemuan 2 | Pandas & NumPy — Eksplorasi Dataset Titanic, Filtering, Groupby | [Pertemuan2_Dikki_Frana_Alvian_240401010151.ipynb](./Pertemuan2_Dikki_Frana_Alvian_240401010151.ipynb) |
 | 3 | Pertemuan 3 | Data Cleaning — Missing Values, Outlier, Normalisasi String, REST API | [Pertemuan3_Dikki_Frana_Alvian_240401010151.ipynb](./Pertemuan3_Dikki_Frana_Alvian_240401010151.ipynb) |
 | 4 | Pertemuan 4 | Statistika Deskriptif & Visualisasi — Distribusi, Korelasi, Heatmap | [Pertemuan4_Dikki_Frana_Alvian_240401010151.ipynb](./Pertemuan4_Dikki_Frana_Alvian_240401010151.ipynb) |
